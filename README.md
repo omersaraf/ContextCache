@@ -90,7 +90,7 @@ public class CacheController : Controller
 {
     private readonly ContextCacheService _contextCacheService;
 
-    public CacheController(ContextCacheService contextCacheService, ILogger<CacheController> logger)
+    public CacheController(ContextCacheService contextCacheService)
     {
         _contextCacheService = contextCacheService;
     }
