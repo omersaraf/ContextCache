@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextCache", "ContextCache\ContextCache.csproj", "{93858CD6-0D30-4B2E-BA59-3557777DC9D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextCache.HttpCache", "ContextCache.HttpCache\ContextCache.HttpCache.csproj", "{57E83E0E-4103-4E43-9642-814631121FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextCache.Main", "ContextCache.Main\ContextCache.Main.csproj", "{A674B0A8-F1ED-4365-826A-622E41B98497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93858CD6-0D30-4B2E-BA59-3557777DC9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93858CD6-0D30-4B2E-BA59-3557777DC9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93858CD6-0D30-4B2E-BA59-3557777DC9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93858CD6-0D30-4B2E-BA59-3557777DC9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E83E0E-4103-4E43-9642-814631121FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E83E0E-4103-4E43-9642-814631121FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E83E0E-4103-4E43-9642-814631121FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E83E0E-4103-4E43-9642-814631121FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A674B0A8-F1ED-4365-826A-622E41B98497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A674B0A8-F1ED-4365-826A-622E41B98497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A674B0A8-F1ED-4365-826A-622E41B98497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A674B0A8-F1ED-4365-826A-622E41B98497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
